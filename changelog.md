@@ -1,3 +1,8 @@
+# Release 3.1.0
+- Removed the "CPS capped" notification at the end of a level.
+- Added percent caps: change the CPS cap at chosen level percentages.
+- Added a keybind to toggle the CPS cap.
+- Added per-key caps: give specific keys (or mouse / touch) their own CPS cap.
 # Release 3.0.0
 - Full codebase whipe and rewrite from scratch along with Removing the progress bar offsetting and the option to cap keys seperatly
 # Release 2.1.0
